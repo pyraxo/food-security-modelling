@@ -1,5 +1,4 @@
-Countries,"Food Prices
-",Crime Index,Literacy Rates,Amount of Food Waste (kg/capita/year),Average Population Density (people per sq. km of land area),Average Work Hours (per wk per person),GDP (PPP) per capita,Prevalence of undernourishment
+Countries,"Food Prices",Crime Index,Literacy Rates,Amount of Food Waste (kg/capita/year),Average Population Density (people per sq. km of land area),Average Work Hours (per wk per person),GDP (PPP) per capita,Prevalence of undernourishment
 Argentina,122.409,75.11,98.1,72.43216273,16,35.1,22947,37
 Australia,153.54,73.51,99,101.6978108,3,33.2,53320,11.9
 Bangladesh,79.094,63.66,61.5,65.124075,1253,46.9,4951,31.7
@@ -29,7 +28,7 @@ Russia,78.411,52.3,99.7,33.37552065,9,37.8,29181,5.5
 Singapore,127.302,27.22,96.8,80.17420344,7966,44.7,101376,4.6
 South Africa,92.413,81.98,94.3,39.77622535,48,39.8,12999,19
 South Korea,202.794,25.38,100,71.40541656,213,38.7,43029,5.3
-Spain�,109.705,54.42,98.1,77.32566473,94,36.6,42214,8.6
+Spain,109.705,54.42,98.1,77.32566473,94,36.6,42214,8.6
 United Arab Emirates,128.869,16.3,93.8,94.53202275,138,52.6,69901,7.5
 United Kingdom,106.357,62.68,99,77,276,35.9,48710,3.5
 Ukraine,55.473,53.17,99.8,76.0315957,77,39,13341,22.7
